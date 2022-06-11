@@ -1,7 +1,7 @@
 
 from unittest import TestCase
 import unittest
-import hashlib
+#import hashlib
 from main import compute_sha256
 
 
