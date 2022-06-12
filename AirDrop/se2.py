@@ -233,9 +233,7 @@ def clipboard():
     #print(clip)
     #clip = clip.split()
 
-def about():
-    tkinter.messagebox.showinfo('帮助',
-                                '开启服务后手机扫描显示的二维码等待页面打开，\n页面打不开说明有多个网口，\n需要切换二维码进行尝试。\n进入页面查看电脑下的文件，点击文件名下载文件到手机。\n选择手机页面中的上传文件将手机文件传到手机。')
+
 
 
 def source():
